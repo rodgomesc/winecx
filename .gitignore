@@ -11,3 +11,6 @@ include/config.h
 include/stamp-h
 tools/makedep
 .DS_Store
+install
+build
+upload
